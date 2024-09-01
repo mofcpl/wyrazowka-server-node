@@ -18,6 +18,11 @@ git clone https://github.com/mofcpl/wyrazowka-server-node.git
 npm run start
 ```
 
+### Run tests
+```bash
+npm run test
+```
+
 ## Technologies
 
 * Node.js 22
